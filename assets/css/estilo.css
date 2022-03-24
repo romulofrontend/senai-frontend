@@ -113,6 +113,9 @@ body.home .receitas a{
 
 .voltar{
   color: #ccc;
+  margin-top: 10px;
+  display: block; 
+  height: 50px;
 }
 
 .wrapper{
@@ -176,5 +179,10 @@ body.home .receitas a{
   justify-content: space-between;
   
 }
+
+.img-destaque-materia{
+  border-radius: 25px;
+}
+
 
 
